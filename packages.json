@@ -1,0 +1,26 @@
+{
+  "name": "ServerStats",
+  "version": "0.0.1",
+  "description": "Simple serverstats bot for discord.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "*",
+    "quick.db": "7.0.0b21"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://github.com/Aceag12/serverstats"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "serverstats",
+    "bot",
+    "discord"
+  ]
+}
